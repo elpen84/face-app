@@ -6,9 +6,12 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "clarifai": "^2.9.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-particles-js": "^2.7.0",
     "react-scripts": "3.3.0",
+    "react-tilt": "^0.1.4",
     "tachyons": "^4.11.1"
   },
   "scripts": {
@@ -31,5 +34,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elpen84/face-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elpen84/face-app/issues"
+  },
+  "homepage": "https://github.com/elpen84/face-app#readme"
 }
